@@ -1,6 +1,6 @@
-## vscode
+## zsh-vscode
 
-Plugin for Visual Studio Code, a cross platform text and code editor, available for Linux, Mac OS X, and Windows.
+This is a oh-my-zsh plugin to open file in vscode
 
 ### Requirements
 
